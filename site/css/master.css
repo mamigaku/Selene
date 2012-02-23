@@ -75,6 +75,18 @@ header .follow-us strong{
 	color: #38caff;
 }
 
+header .follow-us.github i{
+	background: url('../images/github.png') no-repeat 0 0;
+		width: 11px;
+		height: 18px;
+		padding-right: 4px;
+		margin-right: 6px;
+}
+
+header .follow-us.github strong{
+	color: #fec19b;
+}
+
 .demoHeaders { 
 	border-bottom: 1px solid #f1f1f1;
 	margin: 40px 0 20px 0;
